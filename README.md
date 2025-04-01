@@ -25,4 +25,4 @@ Este repositorio contiene un análisis detallado del dataset de **Netflix**, inc
 ## 📥 Descargar el Dashboard de Power BI  
 Puedes descargar el dashboard interactivo en Power BI desde el siguiente enlace:  
 
-[📥 Descargar Dashboard (.pbix)](dashboard.pbix)
+[📥 Descargar Dashboard (.pbix)](Dashboard%20de%20netlifx.pbix)
