@@ -21,3 +21,8 @@ Este repositorio contiene un análisis detallado del dataset de **Netflix**, inc
 - **Python** (Pandas, NumPy)
 - **Jupyter Notebook** para la documentación y ejecución del código
 - **Power BI** para la visualización de datos y creación del dashboard
+
+## 📥 Descargar el Dashboard de Power BI  
+Puedes descargar el dashboard interactivo en Power BI desde el siguiente enlace:  
+
+[📥 Descargar Dashboard (.pbix)](dashboard.pbix)
